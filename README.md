@@ -1,4 +1,4 @@
-👋 Hello, I'm Putri, a highly motivated and results-driven Data Analyst with a strong foundation in Python, SQL, Excel, and web development. I have a proven track record of successfully transitioning from a skilled Full Stack Developer to a data-driven problem solver.
+👋 Hello, I'm Putri, a highly motivated and results-driven Data Analyst with a strong foundation in Python, SQL, Excel, and web development.
 
 📈 As a versatile and detail-oriented professional, my passion for data analysis fuels my commitment to unlocking valuable insights from complex datasets. My experience in crafting web application programs and developing Excel visualizations has honed my analytical mindset, empowering me to effectively streamline processes and drive data-informed decisions.
 
