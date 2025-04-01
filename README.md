@@ -1,16 +1,34 @@
-👋 Hello, I'm Putri, a highly motivated and results-driven Data Analyst with a strong foundation in Python, SQL, Excel, and web development.
+👋 Hello, I'm Putri
+Software Developer | Business Optimizer | Fast Learner
 
-📈 As a versatile and detail-oriented professional, my passion for data analysis fuels my commitment to unlocking valuable insights from complex datasets. My experience in crafting web application programs and developing Excel visualizations has honed my analytical mindset, empowering me to effectively streamline processes and drive data-informed decisions.
+I thrive at the intersection of business, technology, and optimization. My mission? To build tools that make business workflows smoother, and users happier—while helping businesses grow.
 
-💼 I am thrilled to embark on a new chapter in my career, leveraging my proficiency in data manipulation, visualization, and statistical analysis to contribute meaningfully to data-driven projects. My ability to collaborate with stakeholders and translate business requirements into actionable data solutions sets me apart as a dynamic team player.
+What drives me:
 
-🔍 Throughout my journey, I have consistently demonstrated an insatiable curiosity and dedication to learning new technologies. My adaptive nature enables me to stay at the forefront of industry trends, ensuring that my contributions are always innovative and impactful.
+💡 Solving real-world problems with clean, efficient code.
 
-🌱 With a passion for optimizing operations and a strong foundation in both technical and analytical skills, I am excited to join a forward-thinking organization that values data-driven decision-making. Let's connect and explore how my expertise can propel your data-driven initiatives to new heights! 🚀
+🚀 Optimizing everything: From resource planning apps to incident management bots, I love cutting inefficiencies.
 
-- 📫 How to reach me : kontakt@wulandari.de
+🤖 How systems talk: Fascinated by integrations, APIs, and making disparate tools work seamlessly (like ServiceNow scripting or linking databases).
 
-<!---
-tjeuput/tjeuput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Data-powered decisions: Trained in Python, SQL, and analytics—I turn insights into action.
+
+🌱 Learning fast: From Php, Python, Rust to React, I’m always adding tools to my kit.
+
+How I add value:
+
+Built a desktop app for an omnibus operation in Berlin that streamlined resource planning, saving time and complexity.
+
+Automated request and incident management with chatbots and scripts (ServiceNow) to accelerate IT workflows.
+
+Slashed 90% of manual processes for a pharmacy’s inventory system by developing real-time tracking tools.
+
+Love documentation and testing—because reliable systems start with clarity.
+
+Let’s connect if you:
+
+Need a developer who understands business impact.
+
+Want to optimize workflows or build user-friendly tools.
+
+Are as excited about solving problems with creativity in tech as I am!
